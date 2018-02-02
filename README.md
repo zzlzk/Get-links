@@ -5,7 +5,7 @@
 ## 如何使用
 
 1. 把`get-links.cpp`中的内容复制下来，在本地编译运行然后使用。
-2. 下载`get-links.exe`，直接使用。
+2. 下载[`get-links.exe`](https://github.com/zzlzk/Get-links/blob/master/get-links.exe?raw=true)，直接使用。
 3. 如果采用文件输入的方式，请务必保证输入文件和`.exe`在同一路径下。
 4. 如您在使用过程中发现BUG或者有任何疑问，请直接提交Issues。
 
