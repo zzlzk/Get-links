@@ -46,7 +46,7 @@
    - 对于`UOJ`,`LOJ`,`洛谷`,`青橙`，`#`,`P`,`A`输入或不输入无所谓。(也就是说`UOJ #233`和`UOJ 233`被认为是相同的)
    - 对于`CodeForces`和`Gym`，输入格式同`666A`。
    - 对于`CodeChef`，请输入`Problem Code`后面的那一串字母。
-   - 对于`SPOJ`，虽然`SPOJ`的题目有编号，但是并不能通过编号访问，所以**不能通过输入`SPOJ 8222`来获取链接**，你应该输入的`ProblemID`是下图被框住的那一部分![qwq](http://images.cnblogs.com/cnblogs_com/NuclearSubmarines/1013327/o_SPOJ.png)
+   - 对于`SPOJ`，虽然`SPOJ`的题目有编号，但是并不能通过编号访问，所以**不能通过输入`SPOJ 8222`来获取链接**，你应该输入的`ProblemID`是下图被框住的那一部分![qwq](/images/SPOJ.png)
 
 
 ## 输出格式
